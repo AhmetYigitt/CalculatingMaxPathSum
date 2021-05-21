@@ -1,4 +1,4 @@
-﻿//Ahmet Yiğit Arıtürk  ahmetyigitariturk@gmail.com
+﻿//Ahmet Yiğit Arıtürk
 using System;
 
 
